@@ -1,16 +1,16 @@
 {
-  "name": "vitepress-starter",
+  "name": "growth-study",
   "version": "1.0.0",
   "type": "module",
   "packageManager": "pnpm@10.30.1",
-  "description": "开箱即用的 VitePress 文档站点模板，基于 VitePress 2.x 构建",
+  "description": "增长学习库 - 从小白到全栈增长官",
   "keywords": [
-    "vitepress",
-    "documentation",
-    "site-template",
-    "chinese",
-    "pwa",
-    "vue"
+    "growth",
+    "marketing",
+    "operations",
+    "data-analytics",
+    "growth-hacking",
+    "documentation"
   ],
   "license": "MIT",
   "engines": {
